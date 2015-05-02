@@ -1,4 +1,4 @@
-package com.example.dan.osmapi8;
+package ro.danradu.ui;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
