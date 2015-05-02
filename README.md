@@ -1,6 +1,6 @@
 # sockets-prototype
 
-*Android Client* - *Java Server* implementation using sockets communication DTO's (Data Transfer Objects) transfer. 
+*Android Client* - *Java Server* implementation using sockets for DTO's transfer. 
 
 ## Android Client
 - Open Street Maps (osmandroid)
