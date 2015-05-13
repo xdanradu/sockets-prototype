@@ -25,7 +25,7 @@ public class app {
 			}
 
 		} catch (IOException ex) {
-			System.err.println("Eroare :" + ex.getMessage());
+			System.err.println("Error :" + ex.getMessage());
 		} finally {
 			try {
 				ss.close();
