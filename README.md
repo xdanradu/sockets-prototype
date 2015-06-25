@@ -4,7 +4,7 @@
 
 ## Android Client
 - Open Street Maps (osmandroid)
-- Clickable marker/info window example (osmbonusback)
+- Clickable marker/info window example (osmbonuspack)
 
 ## Java Server
 - 3 layers architecture (api, Business Logic Layer, Data Access Layer)
